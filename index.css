@@ -1,0 +1,186 @@
+.container1{
+    background-color: black;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.dc1{
+    margin-right: 10px;
+    margin-bottom: none;
+    background-color: black;
+    padding: 5px;
+    flex: 1;
+}
+
+.dc1 h3{
+    color: white;
+    margin-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+
+button{
+    background-color: white;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    border: none;
+    border-radius: 50px;
+    height: 30px;
+    width: 120px;
+    margin-bottom: 10px;
+    margin-right: 5px;
+}
+
+#watch{
+    background-color: grey;
+    color: white;
+    margin-left: 50px;
+}
+
+button:hover{
+    cursor: pointer;
+    border: 2px solid ;
+}
+
+.dc2{
+    margin-bottom: none;
+    background-color: darkslategray;
+    margin-right: 30px;
+    padding: 5px;
+    border-radius: 10px;
+    flex: 1;
+}
+
+.dc2 h3{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    margin-left: 10px;
+}
+
+p{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    margin-left: 20px;
+    margin: none;
+}
+
+.dc3{
+    margin-bottom: none;
+    background-color: black;
+    padding: 5px;
+    border-radius: 10px;
+    flex: 1;
+}
+
+.dc3 h3{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    margin-left: 25px;
+}
+
+.img{
+    background-image: url(./photo_2026-06-18_10-15-46.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.img2{
+    background-image: url(./photo_2026-06-18_10-15-53.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.img3{
+    background-image: url(./photo_2026-06-18_10-15-59.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.container2{
+    background-color: black;
+    padding: 10px;
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+}
+
+.dc4{
+    background-color: black;
+    padding:5px;
+    margin-right:10px;
+    border-radius: 10px;
+    flex: 1;
+}
+
+.dc4 h3{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    margin-left: 10px;
+}
+
+.img4{
+    background-image: url(./photo_2026-06-18_10-15-50.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.dc5{
+    background-color: black;
+    padding:5px;
+    margin-right:30px;
+    border-radius: 10px;
+    flex:1;
+}
+
+.dc5 h3{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    margin-left: 10px;
+}
+
+.img5{
+    background-image: url(./photo_2026-06-18_10-15-56.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.dc6{
+    background-color: black;
+    padding:5px;
+    margin-right:10px;
+    border-radius: 10px;
+    flex: 1;
+}
+
+.dc6 h3{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    margin-left: 10px;
+}
+
+.img6{
+    background-image: url(./photo_2026-06-18_10-16-02.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 200px;
+    border-radius:10px;
+}
